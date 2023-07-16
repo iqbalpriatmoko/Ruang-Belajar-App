@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:pencacatantugas/models/materipelajaran.dart';
-import 'package:pencacatantugas/screen/matapelajaran.dart';
-import 'package:pencacatantugas/screen/profile.dart';
+import 'package:ruang_belajar/screen/matapelajaran.dart';
+import 'package:ruang_belajar/screen/profile.dart';
+import '../models/materipelajaran.dart';
 import '../models/tugas.dart';
 import './tugasharian.dart';
 

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pencacatantugas/widgets/list_tugas.dart';
+import 'package:ruang_belajar/widgets/list_tugas.dart';
 
 import '../models/tugas.dart';
 

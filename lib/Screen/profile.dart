@@ -69,7 +69,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Text(
-                                'Iqbal Setyo',
+                                'Iqbal Priatmoko',
                                 style: TextStyle(
                                   fontSize: 20,
                                   fontWeight: FontWeight.bold,
@@ -77,7 +77,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                                 textAlign: TextAlign.left,
                               ),
                               Text(
-                                'BD 2',
+                                '10 IPS 2',
                                 style: TextStyle(
                                   fontSize: 20,
                                   fontWeight: FontWeight.bold,
